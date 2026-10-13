@@ -1,0 +1,11 @@
+test_abstention_without_image_is_incomplete_not_defeated (test_validate_candidate.CandidateChecks.test_abstention_without_image_is_incomplete_not_defeated) ... ok
+test_hallucination_without_image_and_uninspected_image (test_validate_candidate.CandidateChecks.test_hallucination_without_image_and_uninspected_image) ... ok
+test_malformed_json_and_cli_emits_json (test_validate_candidate.CandidateChecks.test_malformed_json_and_cli_emits_json) ... ok
+test_swapped_entity_breaks_binding (test_validate_candidate.CandidateChecks.test_swapped_entity_breaks_binding) ... ok
+test_valid_binding_and_self_reported_cqs (test_validate_candidate.CandidateChecks.test_valid_binding_and_self_reported_cqs) ... ok
+test_warrant_wrong_source_and_conclusion_origin (test_validate_candidate.CandidateChecks.test_warrant_wrong_source_and_conclusion_origin) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.032s
+
+OK

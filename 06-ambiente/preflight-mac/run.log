@@ -1,0 +1,11 @@
+[INSTALAÇÃO / INFO] 3.11.17; arm64; python3
+[INSTALAÇÃO / INFO] venv ativo: False
+[INSTALAÇÃO / FALHA] openai ausente (não bloqueia dry-run).
+[INSTALAÇÃO / FALHA] anthropic ausente (não bloqueia dry-run).
+[ARQUIVOS / INFO] class1: 64 casos; imagens verificadas por presença/assinatura, sem decodificação.
+[ARQUIVOS / INFO] class2: 15 casos; imagens verificadas por presença/assinatura, sem decodificação.
+[ARQUIVOS / INFO] class3: 11 casos; imagens verificadas por presença/assinatura, sem decodificação.
+[VALIDAÇÃO / INFO] Executando validation.py --dry-run; ambiente sem credenciais, rede/gravação bloqueadas.
+Validation files: 24; evaluations: 720; pending: 0.
+Columns: col1=without_enthymeme, col2=without_context, col3=without_image, col4=all_inputs
+[VALIDAÇÃO / OK] Dry-run aprovado. Não atesta qualidade semântica, acesso DGX ou execução de modelos.
